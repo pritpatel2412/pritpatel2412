@@ -37,8 +37,8 @@ A user-friendly tool to create and export flowcharts and diagrams — perfect fo
 
 ## 📈 GitHub Stats
 
-![Prit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prit123456789&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prit123456789&layout=compact&theme=react)
+![Prit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritpatel2412&show_icons=true&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritpatel2412&layout=compact&theme=react)
 
 ---
 
