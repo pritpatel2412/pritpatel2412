@@ -18,8 +18,9 @@
 ### 📘 [LMS](https://github.com/Prit123456789/LMS)
 A Learning Management System that simplifies the management and delivery of educational content, connecting students, instructors, and admins in one platform.
 
-### 🔐 [Password Generator](https://github.com/Prit123456789/Password-Generator)
-A simple tool to create strong, secure passwords using a mix of characters. Great for improving online security!
+### 🧠 [KemLang](https://github.com/pritpatel2412/kemlang)
+A Gujarati-Inspired Toy Programming Language with a Smile 😄
+KemLang makes programming fun, cultural, and beginner-friendly. Blending playful Gujarati syntax with modern tools, it's perfect for learners who want to code in a language that feels close to home.
 
 ### 🌐 [Portfolio](https://github.com/Prit123456789/portfolio)
 A responsive portfolio website to showcase my skills, experience, and journey — designed to be recruiter-friendly and visually clean.
