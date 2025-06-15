@@ -22,7 +22,7 @@ A Learning Management System that simplifies the management and delivery of educ
 A Gujarati-Inspired Toy Programming Language with a Smile 😄
 KemLang makes programming fun, cultural, and beginner-friendly. Blending playful Gujarati syntax with modern tools, it's perfect for learners who want to code in a language that feels close to home.
 
-### 🌐 [Portfolio](https://github.com/Prit123456789/portfolio)
+### 🌐 [Portfolio](https://github.com/pritpatel2412/Portfolio)
 A responsive portfolio website to showcase my skills, experience, and journey — designed to be recruiter-friendly and visually clean.
 
 ### 💼 [Job Portal](https://github.com/Prit123456789/jobportal)
