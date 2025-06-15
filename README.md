@@ -25,13 +25,13 @@ KemLang makes programming fun, cultural, and beginner-friendly. Blending playful
 ### 🌐 [Portfolio](https://github.com/pritpatel2412/Portfolio)
 A responsive portfolio website to showcase my skills, experience, and journey — designed to be recruiter-friendly and visually clean.
 
-### 💼 [Job Portal](https://github.com/Prit123456789/jobportal)
+### 💼 [Job Portal](https://github.com/pritpatel2412/jobportal)
 A job portal platform that connects job seekers with employers. Companies can post jobs, and users can browse and apply with ease.
 
-### 👨‍💻 [Micro-IT Internship](https://github.com/Prit123456789/Micro-IT-Internship)
+### 👨‍💻 [Micro-IT Internship](https://github.com/pritpatel2412/Micro-IT-Internship)
 Project completed as part of my internship — focused on real-world applications and enhancing technical proficiency in front-end design.
 
-### 🧩 [FlowSketch](https://github.com/Prit123456789/FlowSketch)
+### 🧩 [FlowSketch](https://github.com/pritpatel2412/FlowSketch)
 A user-friendly tool to create and export flowcharts and diagrams — perfect for developers, students, and teams planning workflows or algorithms.
 
 ---
