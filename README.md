@@ -7,7 +7,7 @@
 
 ## 🚀 Featured Projects
 
-### 🚀 [Xeon](https://github.com/pritpatel2412/Xeon)
+### 🏢 [Xeon](https://github.com/pritpatel2412/Xeon)
 
 A startup pitch discovery platform where bold ideas meet brutal testing — empowering founders to showcase concepts, engage with others, and go from “what if” to “why not.”
 
