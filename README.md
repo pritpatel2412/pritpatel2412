@@ -52,7 +52,7 @@ Project completed as part of my internship — focused on real-world application
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/prit-patel-904272307)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-darkgreen?style=flat-square\&logo=web)](https://prit-portfolio.onrender.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-darkgreen?style=flat-square\&logo=web)](https://pritfolio.vercel.app)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square\&logo=gmail\&logoColor=white)](mailto:pritptl2412@gmail.com)
 
 ---
