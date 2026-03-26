@@ -100,7 +100,7 @@ ARIA v2.0 is a vision-enabled autonomous agent platform for deep web research, c
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.icons8.com/fluent/22/security-shield-green.png" width="22" valign="middle"/> &nbsp;[Codeguard](https://code-guard-45.verecl.app)
+### <img src="https://img.icons8.com/fluent/22/security-shield-green.png" width="22" valign="middle"/> &nbsp;[Codeguard](https://code-guard-45.vercel.app)
 **Code Security & Vulnerability Scanner**
 
 > *Your codebase's last line of defense.*
