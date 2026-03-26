@@ -113,62 +113,6 @@ A static analysis and security scanning tool that audits projects for vulnerabil
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.icons8.com/fluent/22/translate-text.png" width="22" valign="middle"/> &nbsp;[KemLang](https://github.com/pritpatel2412/kemlang)
-**Gujarati-Inspired Toy Programming Language**
-
-> *Code in a language that feels like home.*
-
-A hand-crafted programming language blending playful Gujarati syntax with a custom lexer and parser — making coding fun, cultural, and beginner-friendly.
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://img.icons8.com/fluent/22/podium-with-speaker.png" width="22" valign="middle"/> &nbsp;[Xeon](https://github.com/pritpatel2412/Xeon)
-**Startup Pitch Discovery Platform**
-
-> *Where bold ideas meet brutal testing.*
-
-A platform empowering founders to showcase startup concepts, engage with critics and collaborators, and iterate their pitch — from *"what if"* to *"why not."*
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://img.icons8.com/fluent/22/learning.png" width="22" valign="middle"/> &nbsp;[LMS](https://github.com/Prit123456789/LMS)
-**Learning Management System**
-
-> *Students, instructors, and admins — one platform.*
-
-A full-stack LMS that simplifies delivery and management of educational content with role-based dashboards for all stakeholders.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://img.icons8.com/fluent/22/briefcase.png" width="22" valign="middle"/> &nbsp;[Job Portal](https://github.com/pritpatel2412/jobportal)
-**Job Seeker & Employer Platform**
-
-> *Hire. Apply. Connect.*
-
-A dual-sided platform where companies post listings and job seekers browse, filter, and apply — all in one clean interface.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
 
 ### <img src="https://img.icons8.com/fluent/22/web.png" width="22" valign="middle"/> &nbsp;[Portfolio](https://github.com/pritpatel2412/Portfolio)
 **Personal Portfolio Website**
