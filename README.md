@@ -17,27 +17,27 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## <img src="https://img.icons8.com/fluent/28/source-code.png" width="28" valign="middle"/> &nbsp;About Me
 
 ```yaml
 name        : Prit Patel
 role        : CSE Student & Full-Stack Developer
-location    : India 🇮🇳
+location    : India
 focus       : AI-native products, LLM integration, agentic systems
 currently   : Building Kyren (AI-LMS) & ARIA (Agentic Intelligence Platform)
 interests   : Front-End, UI/UX Design, Programming Language Design
-quote       : "Keep building. Keep learning. Keep growing." 🌱
+quote       : "Keep building. Keep learning. Keep growing."
 ```
 
 <br/>
 
-## 🚀 Featured Projects
+## <img src="https://img.icons8.com/fluent/28/rocket.png" width="28" valign="middle"/> &nbsp;Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [Kyren](https://github.com/pritpatel2412/Kyren)
+### <img src="https://img.icons8.com/fluent/22/artificial-intelligence.png" width="22" valign="middle"/> &nbsp;[Kyren](https://github.com/pritpatel2412/Kyren)
 **AI-Native Learning Management System**
 
 > *From topic to full structured course in under 90 seconds.*
@@ -45,12 +45,20 @@ quote       : "Keep building. Keep learning. Keep growing." 🌱
 Kyren eliminates the friction of course creation and tackles the $15B academic integrity crisis in online education using multi-modal AI generation, adaptive assessments, and behavioral biometric proctoring.
 
 **Highlights:**
-- 🔒 **ProctorX** — TensorFlow.js face-mesh proctoring with real-time Trust Score & auto-termination
-- 📄 **PaperX** — Predicts upcoming exam papers by analyzing past PDFs through a 7-stage pipeline
-- 🤖 **AI Doubt Assistant** — RAG-powered chatbot with image upload, Excalidraw diagrams & PDF Q&A
-- 👥 **P2P Tutoring** — Live WebRTC video + synced tldraw whiteboard + Realtime chat
-- 🏫 **Teacher Mode** — AI-powered cohort management (Google Classroom-style)
-- 💳 **Stripe Subscriptions** — Full Pro plan billing + lifecycle email engine
+
+<img src="https://img.icons8.com/fluent/16/lock-2.png" width="16" valign="middle"/> &nbsp;**ProctorX** — TensorFlow.js face-mesh proctoring with real-time Trust Score & auto-termination
+
+<img src="https://img.icons8.com/fluent/16/document.png" width="16" valign="middle"/> &nbsp;**PaperX** — Predicts upcoming exam papers by analyzing past PDFs through a 7-stage pipeline
+
+<img src="https://img.icons8.com/fluent/16/bot.png" width="16" valign="middle"/> &nbsp;**AI Doubt Assistant** — RAG-powered chatbot with image upload, Excalidraw diagrams & PDF Q&A
+
+<img src="https://img.icons8.com/fluent/16/conference-call.png" width="16" valign="middle"/> &nbsp;**P2P Tutoring** — Live WebRTC video + synced tldraw whiteboard + Realtime chat
+
+<img src="https://img.icons8.com/fluent/16/classroom.png" width="16" valign="middle"/> &nbsp;**Teacher Mode** — AI-powered cohort management (Google Classroom-style)
+
+<img src="https://img.icons8.com/fluent/16/stripe.png" width="16" valign="middle"/> &nbsp;**Stripe Subscriptions** — Full Pro plan billing + lifecycle email engine
+
+<br/>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -62,7 +70,7 @@ Kyren eliminates the friction of course creation and tackles the $15B academic i
 </td>
 <td width="50%" valign="top">
 
-### 🕵️ [Aria](https://github.com/pritpatel2412/Aria)
+### <img src="https://img.icons8.com/fluent/22/detective.png" width="22" valign="middle"/> &nbsp;[Aria](https://github.com/pritpatel2412/Aria)
 **Agentic Research & Intelligence Platform**
 
 > *An autonomous AI that sees the web — not just reads it.*
@@ -70,10 +78,16 @@ Kyren eliminates the friction of course creation and tackles the $15B academic i
 ARIA v2.0 is a vision-enabled autonomous agent platform for deep web research, competitive intelligence, and professional orchestration built on a decentralized Swarm architecture.
 
 **Highlights:**
-- 👁️ **Visual Delta Analysis** — Gemini 1.5 Pro compares screenshots to detect semantic changes & pinpoints the exact UI element that changed
-- 👔 **Ghost Executive** — Autonomous career agent: parses your PDF résumé → auto-fills & submits job applications across LinkedIn, Indeed & company portals
-- 🐝 **Research Swarm** — Decomposes queries into 20+ parallel tasks across stealth browser instances with residential proxy bypass
-- 📡 **Competitive Radar** — Periodic audits of competitor pages with visual pulse intelligence snapshots
+
+<img src="https://img.icons8.com/fluent/16/visible.png" width="16" valign="middle"/> &nbsp;**Visual Delta Analysis** — Gemini 1.5 Pro compares screenshots to detect semantic changes & pinpoints the exact UI element that changed
+
+<img src="https://img.icons8.com/fluent/16/briefcase.png" width="16" valign="middle"/> &nbsp;**Ghost Executive** — Autonomous career agent: parses your PDF résumé → auto-fills & submits job applications across LinkedIn, Indeed & company portals
+
+<img src="https://img.icons8.com/fluent/16/swarm-intelligence.png" width="16" valign="middle"/> &nbsp;**Research Swarm** — Decomposes queries into 20+ parallel tasks across stealth browser instances with residential proxy bypass
+
+<img src="https://img.icons8.com/fluent/16/radar.png" width="16" valign="middle"/> &nbsp;**Competitive Radar** — Periodic audits of competitor pages with visual pulse intelligence snapshots
+
+<br/>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -86,7 +100,7 @@ ARIA v2.0 is a vision-enabled autonomous agent platform for deep web research, c
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [Codeguard](https://github.com/pritpatel2412/Codeguard)
+### <img src="https://img.icons8.com/fluent/22/security-shield-green.png" width="22" valign="middle"/> &nbsp;[Codeguard](https://github.com/pritpatel2412/Codeguard)
 **Code Security & Vulnerability Scanner**
 
 > *Your codebase's last line of defense.*
@@ -99,23 +113,81 @@ A static analysis and security scanning tool that audits projects for vulnerabil
 </td>
 <td width="50%" valign="top">
 
-
-### 🌐 [KemLang](https://github.com/pritpatel2412/kemlang)
+### <img src="https://img.icons8.com/fluent/22/translate-text.png" width="22" valign="middle"/> &nbsp;[KemLang](https://github.com/pritpatel2412/kemlang)
 **Gujarati-Inspired Toy Programming Language**
 
-> *Code in a language that feels like home.* 😄
+> *Code in a language that feels like home.*
 
 A hand-crafted programming language blending playful Gujarati syntax with a custom lexer and parser — making coding fun, cultural, and beginner-friendly.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+### <img src="https://img.icons8.com/fluent/22/podium-with-speaker.png" width="22" valign="middle"/> &nbsp;[Xeon](https://github.com/pritpatel2412/Xeon)
+**Startup Pitch Discovery Platform**
+
+> *Where bold ideas meet brutal testing.*
+
+A platform empowering founders to showcase startup concepts, engage with critics and collaborators, and iterate their pitch — from *"what if"* to *"why not."*
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://img.icons8.com/fluent/22/learning.png" width="22" valign="middle"/> &nbsp;[LMS](https://github.com/Prit123456789/LMS)
+**Learning Management System**
+
+> *Students, instructors, and admins — one platform.*
+
+A full-stack LMS that simplifies delivery and management of educational content with role-based dashboards for all stakeholders.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://img.icons8.com/fluent/22/briefcase.png" width="22" valign="middle"/> &nbsp;[Job Portal](https://github.com/pritpatel2412/jobportal)
+**Job Seeker & Employer Platform**
+
+> *Hire. Apply. Connect.*
+
+A dual-sided platform where companies post listings and job seekers browse, filter, and apply — all in one clean interface.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://img.icons8.com/fluent/22/web.png" width="22" valign="middle"/> &nbsp;[Portfolio](https://github.com/pritpatel2412/Portfolio)
+**Personal Portfolio Website**
+
+A responsive, recruiter-friendly portfolio showcasing skills, projects, and journey — designed with clean aesthetics and smooth UX.
+
+[![Live Site](https://img.shields.io/badge/Live%20Site-pritfolio.vercel.app-16A34A?style=flat-square&logo=vercel&logoColor=white)](https://pritfolio.vercel.app)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-## 🛠️ Tech Stack
+## <img src="https://img.icons8.com/fluent/28/maintenance.png" width="28" valign="middle"/> &nbsp;Tech Stack
 
 <div align="center">
 
@@ -152,7 +224,7 @@ A hand-crafted programming language blending playful Gujarati syntax with a cust
 
 <br/>
 
-## 📊 GitHub Stats
+## <img src="https://img.icons8.com/fluent/28/bar-chart.png" width="28" valign="middle"/> &nbsp;GitHub Stats
 
 <div align="center">
 
