@@ -37,7 +37,7 @@ quote       : "Keep building. Keep learning. Keep growing."
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.icons8.com/fluent/22/artificial-intelligence.png" width="22" valign="middle"/> &nbsp;[Kyren](https://github.com/pritpatel2412/Kyren)
+### <img src="https://img.icons8.com/fluent/22/artificial-intelligence.png" width="22" valign="middle"/> &nbsp;[Kyren](https://kyren.vercel.app)
 **AI-Native Learning Management System**
 
 > *From topic to full structured course in under 90 seconds.*
@@ -100,7 +100,7 @@ ARIA v2.0 is a vision-enabled autonomous agent platform for deep web research, c
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.icons8.com/fluent/22/security-shield-green.png" width="22" valign="middle"/> &nbsp;[Codeguard](https://github.com/pritpatel2412/Codeguard)
+### <img src="https://img.icons8.com/fluent/22/security-shield-green.png" width="22" valign="middle"/> &nbsp;[Codeguard](https://code-guard-45.verecl.app)
 **Code Security & Vulnerability Scanner**
 
 > *Your codebase's last line of defense.*
@@ -114,7 +114,7 @@ A static analysis and security scanning tool that audits projects for vulnerabil
 <td width="50%" valign="top">
 
 
-### <img src="https://img.icons8.com/fluent/22/web.png" width="22" valign="middle"/> &nbsp;[Portfolio](https://github.com/pritpatel2412/Portfolio)
+### <img src="https://img.icons8.com/fluent/22/web.png" width="22" valign="middle"/> &nbsp;[Portfolio](https://pritfolio.vercel.app)
 **Personal Portfolio Website**
 
 A responsive, recruiter-friendly portfolio showcasing skills, projects, and journey — designed with clean aesthetics and smooth UX.
