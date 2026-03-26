@@ -1,160 +1,232 @@
 <div align="center">
 
-# Hi there, I'm Prit Patel 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Prit%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-**CSE Student · Front-End Developer · Tech Enthusiast**
+<br/>
 
-Passionate about building web applications that solve real-world problems,  
-with a focus on **clean design** and **intuitive UX**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-native+products+from+scratch;Full-Stack+%7C+LLM+%7C+Agentic+Systems;Turning+ideas+into+real+software)](https://git.io/typing-svg)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prit-patel-904272307)
 [![Portfolio](https://img.shields.io/badge/Portfolio-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://pritfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritptl2412@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritptl2412@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pritpatel2412)
 
 </div>
 
----
+<br/>
+
+## 👨‍💻 About Me
+
+```yaml
+name        : Prit Patel
+role        : CSE Student & Full-Stack Developer
+location    : India 🇮🇳
+focus       : AI-native products, LLM integration, agentic systems
+currently   : Building Kyren (AI-LMS) & ARIA (Agentic Intelligence Platform)
+interests   : Front-End, UI/UX Design, Programming Language Design
+quote       : "Keep building. Keep learning. Keep growing." 🌱
+```
+
+<br/>
 
 ## 🚀 Featured Projects
 
-### 🧠 [Kyren](https://github.com/pritpatel2412/Kyren) — AI-Native Learning Management System
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> *From topic to full course in under 90 seconds.*
+### 🧠 [Kyren](https://github.com/pritpatel2412/Kyren)
+**AI-Native Learning Management System**
 
-Kyren is an AI-native LMS built to eliminate the friction of course creation and tackle the $15B academic integrity crisis in online education. It combines **multi-modal AI course generation** (Text, YouTube URL, Syllabus OCR) with a **4-mode adaptive evaluation engine** (MCQ, Theory, Code, Audio) enforced by **ProctorX** — a real-time behavioral biometric proctoring system powered by TensorFlow.js and MediaPipe Face Mesh.
+> *From topic to full structured course in under 90 seconds.*
 
-**Key capabilities:**
-- 🔒 **ProctorX** — Detects face absence, tab-switching, and DevTools tampering. Auto-terminates exams on violation with a dynamic Trust Score system.
-- 📄 **PaperX** — 7-stage pipeline that analyzes past exam PDFs to generate statistically predicted upcoming papers.
-- 🤖 **AI Doubt Assistant** — Context-aware RAG chatbot with image upload, Excalidraw diagram generation, and PDF Q&A (Qdrant + OpenAI Vision).
-- 👥 **Peer P2P Network** — Live WebRTC video tutoring with synced tldraw whiteboard and Supabase Realtime chat.
-- 🏫 **Teacher Classroom Mode** — Google Classroom-style cohort management with AI-generated curriculum deployment.
-- 📊 **Admin Governance Panel** — Per-user API cost tracking, ban/appeal system, and content moderation.
+Kyren eliminates the friction of course creation and tackles the $15B academic integrity crisis in online education using multi-modal AI generation, adaptive assessments, and behavioral biometric proctoring.
 
-**Stack:** `Next.js 14` · `TypeScript` · `Supabase` · `GPT-4o` · `Gemini 1.5` · `LangChain` · `Qdrant` · `TensorFlow.js` · `WebRTC` · `Stripe` · `Tailwind CSS v4`
+**Highlights:**
+- 🔒 **ProctorX** — TensorFlow.js face-mesh proctoring with real-time Trust Score & auto-termination
+- 📄 **PaperX** — Predicts upcoming exam papers by analyzing past PDFs through a 7-stage pipeline
+- 🤖 **AI Doubt Assistant** — RAG-powered chatbot with image upload, Excalidraw diagrams & PDF Q&A
+- 👥 **P2P Tutoring** — Live WebRTC video + synced tldraw whiteboard + Realtime chat
+- 🏫 **Teacher Mode** — AI-powered cohort management (Google Classroom-style)
+- 💳 **Stripe Subscriptions** — Full Pro plan billing + lifecycle email engine
 
----
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-### 🕵️ [Aria](https://github.com/pritpatel2412/Aria) — Agentic Research & Intelligence Platform
+</td>
+<td width="50%" valign="top">
 
-> *An autonomous AI that sees the web, not just reads it.*
+### 🕵️ [Aria](https://github.com/pritpatel2412/Aria)
+**Agentic Research & Intelligence Platform**
 
-ARIA v2.0 is a vision-enabled autonomous agent platform for deep web research, competitive intelligence, and professional orchestration. It uses a decentralized **Swarm architecture** to navigate the web, execute complex actions in parallel, and semantically analyze visual changes — not just DOM diffs.
+> *An autonomous AI that sees the web — not just reads it.*
 
-**Key capabilities:**
-- 👁️ **Visual Delta Analysis** — Detects semantic changes on any URL using Gemini 1.5 Pro comparing screenshots. Renders a pulsing bounding box over the exact changed element in the live UI.
-- 👔 **Ghost Executive** — Autonomous career agent that parses your PDF résumé into a typed JSON profile, then auto-fills and submits job applications across LinkedIn, Indeed, and company portals.
-- 🐝 **Research Swarm** — Decomposes complex queries into 20+ atomic tasks and executes them in parallel via multiple stealth browser instances with residential proxy fingerprinting bypass.
-- 📡 **Competitive Radar** — Periodically audits competitor domains (`/pricing`, `/features`, `/careers`) and surfaces intelligence snapshots with visual pulse indicators.
+ARIA v2.0 is a vision-enabled autonomous agent platform for deep web research, competitive intelligence, and professional orchestration built on a decentralized Swarm architecture.
 
-**Stack:** `Next.js` · `TypeScript` · `Groq (Llama-3.3-70b)` · `Gemini 1.5 Pro` · `TinyFish (Remote Browser/SSE)` · `Supabase` · `RAG` · `Stealth Proxies`
+**Highlights:**
+- 👁️ **Visual Delta Analysis** — Gemini 1.5 Pro compares screenshots to detect semantic changes & pinpoints the exact UI element that changed
+- 👔 **Ghost Executive** — Autonomous career agent: parses your PDF résumé → auto-fills & submits job applications across LinkedIn, Indeed & company portals
+- 🐝 **Research Swarm** — Decomposes queries into 20+ parallel tasks across stealth browser instances with residential proxy bypass
+- 📡 **Competitive Radar** — Periodic audits of competitor pages with visual pulse intelligence snapshots
 
----
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_1.5_Pro-4285F4?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LLaMA-F54E42?style=flat-square&logo=groq&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
 
-### 🛡️ [Codeguard](https://github.com/pritpatel2412/Codeguard) — Code Security & Vulnerability Scanner
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [Codeguard](https://github.com/pritpatel2412/Codeguard)
+**Code Security & Vulnerability Scanner**
 
 > *Your codebase's last line of defense.*
 
-Codeguard is a static analysis and security scanning tool that audits projects for vulnerabilities, insecure patterns, and potential threats — keeping your code clean and production-safe before it ships.
+A static analysis and security scanning tool that audits projects for vulnerabilities, insecure patterns, and potential threats — keeping code clean and production-safe before it ships.
 
-**Stack:** `JavaScript` · `Static Analysis` · `Node.js`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🏢 [Xeon](https://github.com/pritpatel2412/Xeon) — Startup Pitch Discovery Platform
+### 🏢 [Xeon](https://github.com/pritpatel2412/Xeon)
+**Startup Pitch Discovery Platform**
 
 > *Where bold ideas meet brutal testing.*
 
-A platform empowering founders to showcase startup concepts, engage with critics and collaborators, and iterate their pitch — from *"what if"* to *"why not."*
+A platform empowering founders to showcase startup concepts, engage with critics & collaborators, and iterate their pitch — from *"what if"* to *"why not."*
 
-**Stack:** `JavaScript` · `React` · `Node.js`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 📘 [LMS](https://github.com/Prit123456789/LMS) — Learning Management System
+### 📘 [LMS](https://github.com/Prit123456789/LMS)
+**Learning Management System**
 
-> *One platform. Students, instructors, admins — unified.*
+> *Students, instructors, and admins — one platform.*
 
 A full-stack LMS that simplifies delivery and management of educational content with role-based dashboards for all stakeholders.
 
-**Stack:** `JavaScript` · `React` · `Node.js`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🌐 [KemLang](https://github.com/pritpatel2412/kemlang) — Gujarati-Inspired Toy Programming Language
+### 🌐 [KemLang](https://github.com/pritpatel2412/kemlang)
+**Gujarati-Inspired Toy Programming Language**
 
 > *Code in a language that feels like home.* 😄
 
-KemLang makes programming fun, cultural, and beginner-friendly — blending playful Gujarati syntax with a hand-crafted parser for learners who want to connect with code on a personal level.
+A hand-crafted programming language blending playful Gujarati syntax with a custom lexer and parser — making coding fun, cultural, and beginner-friendly.
 
-**Stack:** `C++` · `Custom Lexer/Parser`
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 💼 [Job Portal](https://github.com/pritpatel2412/jobportal) — Job Seeker & Employer Platform
+### 💼 [Job Portal](https://github.com/pritpatel2412/jobportal)
+**Job Seeker & Employer Platform**
 
 > *Hire. Apply. Connect.*
 
-A dual-sided platform where companies post listings and job seekers browse, filter, and apply — all in one clean interface.
+A dual-sided platform where companies post listings and job seekers browse, filter, and apply with ease — all in one clean interface.
 
-**Stack:** `JavaScript` · `React` · `Node.js`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🌐 [Portfolio](https://github.com/pritpatel2412/Portfolio) — Personal Portfolio Website
+### 🌐 [Portfolio](https://github.com/pritpatel2412/Portfolio)
+**Personal Portfolio Website**
 
 A responsive, recruiter-friendly portfolio showcasing skills, projects, and journey. Designed with clean aesthetics and smooth UX.
 
-**Stack:** `HTML` · `CSS` · `JavaScript`
-
----
-
-### 👨‍💻 [Micro-IT Internship](https://github.com/pritpatel2412/Micro-IT-Internship) — Internship Project
-
-Real-world internship project focused on front-end design proficiency and applied development skills.
-
-**Stack:** `HTML` · `CSS` · `JavaScript`
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
+[![Live](https://img.shields.io/badge/Live%20Site-pritfolio.vercel.app-16A34A?style=flat-square&logo=vercel&logoColor=white)](https://pritfolio.vercel.app)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Frameworks & Tools**
+</td>
+</tr>
+</table>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<br/>
 
-**Interests:** Front-End Development · AI/LLM Integration · UI/UX Design · Programming Language Design · Agentic Systems
-
----
-
-## 📈 GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Prit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritpatel2412&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritpatel2412&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+**Languages**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Frameworks & Platforms**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**AI & Cloud**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
----
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-*"Keep building. Keep learning. Keep growing."* 🌱
+<img src="https://github-readme-stats.vercel.app/api?username=pritpatel2412&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritpatel2412&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pritpatel2412&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pritpatel2412&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true" width="100%" />
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
