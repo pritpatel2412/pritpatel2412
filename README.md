@@ -233,6 +233,6 @@ I'm actively looking for:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=120&section=footer" />
 
-*Last updated: 2025 · Built with obsession and too much caffeine ☕*
+*Last updated: 2026 · Built with obsession and too much caffeine ☕*
 
 </div>
