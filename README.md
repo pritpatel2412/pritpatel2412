@@ -268,7 +268,7 @@ CodeGuard's Policy-as-Prompt system allows teams to define custom security rules
 ## Experience
 
 **AI Developer Intern** &nbsp;·&nbsp; **StayChat AI**
-*2025 – Present*
+*June 2026 – Present*
 
 StayChat AI is a hospitality tech startup that automates hotel bookings and guest communication via WhatsApp AI agents. As AI Developer Intern, I build and maintain the agentic AI pipelines that power real-time guest interactions across hotel properties.
 
