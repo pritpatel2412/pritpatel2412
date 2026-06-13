@@ -30,7 +30,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Location-Surat%2C%20Gujarat%2C%20India-7C3AED?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Anand%2C%20Gujarat%2C%20India-7C3AED?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22C55E?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=pritpatel2412&label=Profile%20Views&color=7C3AED&style=flat-square" />
   <img src="https://img.shields.io/github/followers/pritpatel2412?label=Followers&style=flat-square&color=7C3AED" />
@@ -287,7 +287,7 @@ StayChat AI is a hospitality tech startup that automates hotel bookings and gues
 
 | Recognition | Details |
 |:---|:---|
-| **GPA 9.67 / 10** | B.Tech CSE, CHARUSAT University (2023–2027) — top of cohort academic performance |
+| **GPA 9.71 / 10** | B.Tech CSE, CHARUSAT University (2023–2027) — top of cohort academic performance |
 | **LeetCode 400+** | 400+ problems solved across DSA, Dynamic Programming, Graphs, and Trees |
 | **GfG 160** | Completed GeeksforGeeks 160-Day Problem Solving streak without interruption |
 | **Pull Shark** | GitHub Pull Shark Achievement — consistent open-source contribution record |
