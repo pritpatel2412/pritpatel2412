@@ -32,7 +32,7 @@
 <p>
   <img src="https://img.shields.io/badge/Location-Anand%2C%20Gujarat%2C%20India-7C3AED?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22C55E?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=pritpatel2412&label=Profile%20Views&color=7C3AED&style=flat-square&base=1000" />
+  <img src="https://komarev.com/ghpvc/?username=pritpatel2412&label=Profile%20Views&color=7C3AED&style=flat-square&base=1100" />
   <img src="https://img.shields.io/github/followers/pritpatel2412?label=Followers&style=flat-square&color=7C3AED" />
   <img src="https://img.shields.io/github/stars/pritpatel2412?label=Stars&style=flat-square&color=7C3AED&affiliations=OWNER" />
 </p>
