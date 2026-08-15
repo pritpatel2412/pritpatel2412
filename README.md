@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=200&section=header&text=Prit%20Patel&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=I%20build%20things%20the%20internet%20talks%20about%20later.&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
 
 <a href="https://github.com/pritpatel2412">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=CSE+Student+%7C+Full-Stack+Developer;Generative+AI+Builder+%7C+LLM+%2B+RAG+%2B+Agentic+AI;Building+AI-Native+Products+From+Scratch;CHARUSAT+University+%7C+GPA+9.67%2F10;AI+Developer+Intern+%40+StayChat+AI;Open+to+Internships+%26+AI+Collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=CSE+Student+%7C+Full-Stack+Developer;Generative+AI+Builder+%7C+LLM+%2B+RAG+%2B+Agentic+AI;Building+AI-Native+Products+From+Scratch;CHARUSAT+University+%7C+GPA+9.71%2F10;AI+Developer+Intern+%40+StayChat+AI;Open+to+Internships+%26+AI+Collaborations" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -32,7 +32,7 @@
 <p>
   <img src="https://img.shields.io/badge/Location-Anand%2C%20Gujarat%2C%20India-7C3AED?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22C55E?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=pritpatel2412&label=Profile%20Views&color=7C3AED&style=flat-square&base=1100" />
+  <img src="https://komarev.com/ghpvc/?username=pritpatel2412&label=Profile%20Views&color=7C3AED&style=flat-square&base=1300" />
   <img src="https://img.shields.io/github/followers/pritpatel2412?label=Followers&style=flat-square&color=7C3AED" />
   <img src="https://img.shields.io/github/stars/pritpatel2412?label=Stars&style=flat-square&color=7C3AED&affiliations=OWNER" />
 </p>
