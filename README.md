@@ -156,11 +156,11 @@ I'm a CSE student at **CHARUSAT University** (GPA **9.71/10**, graduating 2027) 
 
 <div align="center">
 
-<img height="190" src="https://raw.githubusercontent.com/pritpatel2412/pritpatel2412/main/profile-summary-card-output/dracula/0-profile-details.svg" />
-<img height="190" src="https://raw.githubusercontent.com/pritpatel2412/pritpatel2412/main/profile-summary-card-output/dracula/3-stats.svg" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pritpatel2412&theme=dracula" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pritpatel2412&theme=dracula" />
 
-<img height="190" src="https://raw.githubusercontent.com/pritpatel2412/pritpatel2412/main/profile-summary-card-output/dracula/1-repos-per-language.svg" />
-<img height="190" src="https://raw.githubusercontent.com/pritpatel2412/pritpatel2412/main/profile-summary-card-output/dracula/2-most-commit-language.svg" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pritpatel2412&theme=dracula" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pritpatel2412&theme=dracula" />
 
 </div>
 
