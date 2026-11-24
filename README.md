@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Prit%20Patel&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Product%20Builder&descAlignY=60&descSize=17&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Prit%20Patel&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20Product%20Builder%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20Open-Source%20Contributor&descSize=16&descAlignY=58&descAlign=50&animation=fadeIn" />
 
 <a href="https://github.com/pritpatel2412">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+AI-native+products+from+zero+to+deployed;LLMs+%C2%B7+RAG+%C2%B7+Agentic+Systems+%C2%B7+Full-Stack;AI+Developer+Intern+%40+StayChat+AI;Open+to+internships+%26+collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+AI-native+products+from+zero+to+production;Shipping+agentic+AI%2C+full-stack+systems+and+developer+tools;Open-source+contributor+%7C+AI+%26+backend+engineering" />
 </a>
 
 <br/><br/>
@@ -23,7 +23,7 @@
 
 ## About
 
-I'm a CSE student at **CHARUSAT University** (GPA **9.71/10**, graduating 2027) and an AI product builder. In 2026 alone I've worked across **agentic AI, full-stack engineering and data science** at three companies, and I ship my own AI-native tools on the side.
+I'm a CSE student at **CHARUSAT University** (GPA **9.71/10**, graduating 2027) and an AI product builder. In 2026 alone I've worked across **agentic AI, full-stack engineering and data science** with production systems, open-source projects and deployed products.
 
 <table>
 <tr>
@@ -54,12 +54,12 @@ I'm a CSE student at **CHARUSAT University** (GPA **9.71/10**, graduating 2027) 
 
 | | |
 |:--|:--|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **AI / ML** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![ONNX](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat-square&logo=onnx&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Framer](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square) |
-| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **AI / ML** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
@@ -67,14 +67,28 @@ I'm a CSE student at **CHARUSAT University** (GPA **9.71/10**, graduating 2027) 
 
 | Project | What it does | Built with | Links |
 |:--|:--|:--|:--|
-| **SearchMind API**<br/>AI-native search platform | Search API for LLM agents and RAG: multi-provider search fallback, content extraction with Playwright for JS pages, crawling and deep research. Also ships a browser-agent API with human-in-the-loop approvals, watch webhooks, a Python SDK with LangChain and LangGraph tools, and an MCP server. Beta. | FastAPI · PostgreSQL · Redis · Celery · Playwright · Groq · React | [Live](https://searchmind-api.vercel.app/) · [Docs](https://searchmind-api.onrender.com/docs) · [Code](https://github.com/pritpatel2412/SearchMind-API) |
-| **Self-Maintaining APIs**<br/>In development | An agent that turns an API provider's breaking-change or model-deprecation notice into a tested pull request: detects the change, finds affected call sites, patches them, verifies in the repo's own CI, and opens a PR for human review. | GitHub App · codemods · LLM agents | Coming soon |
-| **RedForge**<br/>Red-team orchestration | AI-driven platform that automates adversarial security testing: models attacker reasoning, generates targeted scenarios, and orchestrates scanning and reporting. Built during my role at Horizon Tech X. | Python · FastAPI · LangChain · React · PostgreSQL | [Code](https://github.com/pritpatel2412/RedForge) |
-| **ReadAloud**<br/>Private TTS | On-device multilingual text-to-speech in 31 languages. Inference runs in the browser via ONNX and WebGPU, so text never leaves the device. Includes an OpenAI-compatible API. | Next.js · ONNX Runtime · WebGPU · FastAPI · Stripe | [Code](https://github.com/pritpatel2412/readaloud) |
-| **CodeGuard**<br/>PR security review | Scores every pull request for risk and finds vulnerabilities with GPT-4o. Supports Policy-as-Prompt rules (`.codeguard.yml`) and cross-file taint analysis, with live updates over Socket.io. | Next.js · Node · PostgreSQL · GPT-4o · Socket.io | [Live](https://code-guard-45.vercel.app/) · [Code](https://github.com/pritpatel2412/CodeGuard) |
-| **ARIA**<br/>Research agents | Multi-agent web research: decomposes a query, runs parallel Playwright browser agents, compares page snapshots, and synthesizes a cited report. | FastAPI · LangChain · Playwright · Groq | [Code](https://github.com/pritpatel2412/ARIA) |
+| **SearchMind API**<br/>AI-native search platform | Search API for LLM agents and RAG: multi-provider search fallback, content extraction with Playwright for JS pages, crawling and deep research. | FastAPI · Python · Playwright · RAG | [Repo](https://github.com/pritpatel2412/searchmind-api) |
+| **Self-Maintaining APIs**<br/>In development | An agent that turns an API provider's breaking-change or model-deprecation notice into a tested pull request: detects the change, finds affected code and proposes verified fixes. | AI agents · AST · GitHub Actions | [Repo](https://github.com/pritpatel2412/self-maintaining-apis) |
+| **RedForge**<br/>Red-team orchestration | AI-driven platform that automates adversarial security testing: models attacker reasoning, generates targeted scenarios and orchestrates scanning and reporting. | LangChain · FastAPI · React | [Repo](https://github.com/pritpatel2412/RedForge) |
+| **ReadAloud**<br/>Private TTS | On-device multilingual text-to-speech in 31 languages. Inference runs in the browser via ONNX and WebGPU, so text never leaves the device. | React · ONNX · WebGPU | [Repo](https://github.com/pritpatel2412/ReadAloud) |
+| **CodeGuard**<br/>PR security review | Scores every pull request for risk and finds vulnerabilities with GPT-4o. Supports Policy-as-Prompt rules (`.codeguard.yml`) and cross-file taint analysis. | Node.js · GPT-4o · AST | [Repo](https://github.com/pritpatel2412/CodeGuard) |
+| **ARIA**<br/>Research agents | Multi-agent web research: decomposes a query, runs parallel Playwright browser agents, compares page snapshots and synthesizes a cited report. | FastAPI · LangChain · Playwright | [Repo](https://github.com/pritpatel2412/aria) |
 
-**Also built:** [KemLang](https://github.com/pritpatel2412/kemlang) (a Gujarati-inspired language with interpreter, CLI and web playground) · ProctorX (in-browser proctoring at 30 fps with MediaPipe)
+**Also built:** [KemLang](https://github.com/pritpatel2412/kemlang) (a Gujarati-inspired language with interpreter, CLI and web playground) · ProctorX (in-browser proctoring at 30 fps with MediaPipe face tracking) · [DriftFix](https://github.com/pritpatel2412/DriftFix) (developer-tooling platform)
+
+---
+
+## Open-source contributions
+
+Selected fixes I've contributed across open-source projects.
+
+| Project | Contribution | Impact |
+|:--|:--|:--|
+| [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot/pull/6842) | Preserved model routing for continuations and made provider-aware fast-model selection safer | Russian follow-up prompts stay on the configured model and invalid cross-provider substitutions are prevented |
+| [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot/pull/6546) | Restored secret redaction after persisted-state reloads and enforced redaction at output boundaries | Sensitive values are removed from logs, audit records, replies and error payloads, including encoded variants |
+| [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot/pull/6547) | Added characterization tests and architecture documentation for team cloud-send authorization | Pinned the outer refusal and move-scope gate to prevent future route refactors from exposing downstream handlers |
+| [**StayChat Backend**](https://github.com/Staychat-AI/StayChat-Backend/pull/7) | Added namespaced Meta template collections, approvals and tenant-safe retrieval APIs | Added sequential default and hotel-approved templates while enforcing strict approval and isolation rules |
+| [**StayChat Bot**](https://github.com/Staychat-AI/StayChat-Bot/pull/24) | Fixed database selection, batched booking backfills and cross-platform test encoding | Repaired live panel totals and made operational tooling reliable across MongoDB and Windows environments |
 
 ---
 
